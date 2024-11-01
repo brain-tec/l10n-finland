@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [l10n_fi_banks](l10n_fi_banks/) | 18.0.1.0.0 |  | Finnish banks and their addresses
+[l10n_fi_edicode](l10n_fi_edicode/) | 18.0.1.0.0 |  | Adds EDI code field and operators
 
 [//]: # (end addons)
 
